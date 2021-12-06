@@ -1,0 +1,74 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.navbar{
+	width: 100%;
+	height: 70px;
+}
+.navbar img{
+	width: 132px;
+	padding-left: 98px;
+	padding-top: 18px;
+}
+.banner{
+	background: url("food1.jpg");
+	width: 100%;
+	height: 500px;
+	background-size: cover;
+	background-position: center;
+}
+.location{
+	background:lightgrey ;
+	width: 100%;
+	height: 60px;
+	margin-top: -55px;
+}
+.location img{
+       padding-left: 37px;
+    padding-right: 5px;
+    padding-top: 0px;
+}
+.navbar a{
+	color: #d70f64;
+	text-decoration: none;
+       float: right;
+       padding-top: 23px;
+    padding-left: 2px;
+    padding-right: 48px;
+}
+.about{
+	background: white;
+	height: 500px;
+	width: 100%;
+}
+.joinus{
+	background: url("food7.jpg");
+	width: 100%;
+	height: 600px;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+}
+.press{
+	background: url("Food8.jpg");
+	width: 100%;
+	height: 600px;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+}
+.contact{
+	background: #d70f64;
+	height: 500px;
+	width: 100%;
+}
+.footer{
+	height: 100px;
+	width: 100%;
+}
+.footer i{
+	float: right;
+	padding-top:31px;
+	padding-left: 42px;
+}
